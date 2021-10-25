@@ -1,0 +1,4 @@
+C:\dev\private-projects\KMean\KMean\obj\Debug\netcoreapp3.1\KMean.csprojAssemblyReference.cache
+C:\dev\private-projects\KMean\KMean\obj\Debug\netcoreapp3.1\KMean.AssemblyInfoInputs.cache
+C:\dev\private-projects\KMean\KMean\obj\Debug\netcoreapp3.1\KMean.AssemblyInfo.cs
+C:\dev\private-projects\KMean\KMean\obj\Debug\netcoreapp3.1\KMean.csproj.CoreCompileInputs.cache
